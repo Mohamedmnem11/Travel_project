@@ -1,0 +1,30 @@
+.home{
+    width: 255px;
+    margin: auto;
+    text-align: center;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    /* display: flex; */
+    /* justify-content: center; */
+}
+.play{
+    background-color: #f25;
+    padding: 5px 0;
+    margin: 5px 0;
+}
+span{
+    color: #fa0;
+}
+.content{
+    background-color: lightskyblue;
+    width: 80px;
+    float: left;
+    height: 80px;
+    margin: 2px;
+    font-size: 50px;
+    color: white;
+
+}
+.content:hover{
+    background-color: black;
+    cursor: pointer;
+}
